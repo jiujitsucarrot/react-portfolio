@@ -1,0 +1,22 @@
+.portfolio {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.portfolio .project {
+    margin: 1rem;
+}
+
+.portfolio .project img {
+    width: 100%;
+    max-width: 300px;
+    height: auto;
+}
+
+.portfolio .project a {
+    display: block;
+    margin-top: 0.5rem;
+    text-decoration: none;
+    color: #333;
+}
