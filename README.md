@@ -48,12 +48,16 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 
 ## Links
 
-* 
+* https://zingy-travesseiro-4dfcab.netlify.app/
 * https://github.com/jiujitsucarrot/react-portfolio
 
 ## Sources
 
+This challenge has given me a bit of push back but progress and growth were achieved. There is still so much to do on this professional portfolio but when it comes to React this definitely got the ball rolling. Sources that were utilized throughout the progression of this challenge were YouTube, Google, w3schools, exstensive dives into tech blogs and documentation, revisiting course lectures, reaching out to my instructor and TA's, reaching out to colleagues as well as classmates, tutoring, making mistakes that taught lessons. 
+
 ## Future Application Improvements
+
+The end goal with this application is to develop a flawless professional portfolio that displays my body of work. I would like it to be fully operational as well as a stronger code structure to prevent the rapid rate of breaks in my code. I would like to develop an impressive portfolio that is easy on the eyes and allows the user to contact me.
 
 ### Projects
 
